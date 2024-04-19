@@ -1,0 +1,6 @@
+- scikit-learn v1.4.2
+- matplotlib v3.8.0
+- pandas v2.1.2
+- numpy v1.26.1
+- xgboost v2.0.3
+- seaborn v0.13.0
